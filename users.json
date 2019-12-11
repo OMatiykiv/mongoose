@@ -1,0 +1,40 @@
+[
+    { 
+        "_id" : ObjectId("5df157fd42ba05007cccb67c"), 
+        "role" : "guest", 
+        "createdAt" : ISODate("2019-12-11T20:53:02.900+0000"), 
+        "numberOfArticles" : NumberInt(3), 
+        "firstName" : "Samuel", 
+        "lastName" : "Ndgoropape", 
+        "nickname" : "Pape", 
+        "__v" : NumberInt(0)
+    },
+    { 
+        "_id" : ObjectId("5df175eba0c62d2f3816b7b2"), 
+        "role" : "writer", 
+        "createdAt" : ISODate("2019-12-11T22:50:15.833+0000"), 
+        "numberOfArticles" : NumberInt(1), 
+        "firstName" : "Indira", 
+        "lastName" : "Gharancware", 
+        "nickname" : "Ghara", 
+        "__v" : NumberInt(0)
+    },
+    { 
+        "_id" : ObjectId("5df176b9a0c62d2f3816b7b4"), 
+        "role" : "admin", 
+        "createdAt" : ISODate("2019-12-11T22:50:15.833+0000"), 
+        "numberOfArticles" : NumberInt(1), 
+        "firstName" : "Johny", 
+        "lastName" : "Good", 
+        "__v" : NumberInt(0)
+    },
+    { 
+        "_id" : ObjectId("5df1770ca0c62d2f3816b7b5"), 
+        "role" : "guest", 
+        "createdAt" : ISODate("2019-12-11T22:50:15.833+0000"), 
+        "numberOfArticles" : NumberInt(0), 
+        "firstName" : "Samuel", 
+        "lastName" : "Jackson", 
+        "__v" : NumberInt(0)
+    }
+]

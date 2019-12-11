@@ -1,0 +1,57 @@
+[
+    { 
+        "_id" : ObjectId("5df1747aa0c62d2f3816b7af"), 
+        "createdAt" : ISODate("2019-12-11T22:50:15.857+0000"), 
+        "updatedAt" : ISODate("2019-12-11T22:50:15.857+0000"), 
+        "title" : "first article", 
+        "subtitle" : "create first article", 
+        "description" : "creating this article started when...", 
+        "owner" : ObjectId("5df157fd42ba05007cccb67c"), 
+        "category" : "history", 
+        "__v" : NumberInt(0)
+    },
+    { 
+        "_id" : ObjectId("5df174e0a0c62d2f3816b7b0"), 
+        "createdAt" : ISODate("2019-12-11T22:50:15.857+0000"), 
+        "updatedAt" : ISODate("2019-12-11T22:50:15.857+0000"), 
+        "title" : "second article", 
+        "subtitle" : "create second article", 
+        "description" : "creating this article was better than previous...", 
+        "owner" : ObjectId("5df157fd42ba05007cccb67c"), 
+        "category" : "history", 
+        "__v" : NumberInt(0)
+    },
+    { 
+        "_id" : ObjectId("5df17527a0c62d2f3816b7b1"), 
+        "createdAt" : ISODate("2019-12-11T22:50:15.857+0000"), 
+        "updatedAt" : ISODate("2019-12-11T22:50:15.857+0000"), 
+        "title" : "third article", 
+        "subtitle" : "create third article", 
+        "description" : "bla bla bla...", 
+        "owner" : ObjectId("5df157fd42ba05007cccb67c"), 
+        "category" : "history", 
+        "__v" : NumberInt(0)
+    },
+    { 
+        "_id" : ObjectId("5df17678a0c62d2f3816b7b3"), 
+        "createdAt" : ISODate("2019-12-11T22:50:15.857+0000"), 
+        "updatedAt" : ISODate("2019-12-11T22:50:15.857+0000"), 
+        "title" : "another article", 
+        "subtitle" : "create another article", 
+        "description" : "you saw it, you saw ... another owner", 
+        "owner" : ObjectId("5df175eba0c62d2f3816b7b2"), 
+        "category" : "sport", 
+        "__v" : NumberInt(0)
+    },
+    { 
+        "_id" : ObjectId("5df177c3a0c62d2f3816b7b6"), 
+        "createdAt" : ISODate("2019-12-11T22:50:15.857+0000"), 
+        "updatedAt" : ISODate("2019-12-11T22:50:15.857+0000"), 
+        "title" : "Good article", 
+        "subtitle" : "create article", 
+        "description" : "article which was written by admin", 
+        "owner" : ObjectId("5df176b9a0c62d2f3816b7b4"), 
+        "category" : "games", 
+        "__v" : NumberInt(0)
+    }
+]
