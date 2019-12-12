@@ -1,5 +1,3 @@
-# mongo-homework
-
 ### Installation
 1. Clone repo
 2. Open project directory
